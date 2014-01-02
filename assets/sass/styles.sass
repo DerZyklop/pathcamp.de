@@ -348,8 +348,12 @@ a.gallery-item
   display:  block
   background: #fff
   position:  relative
+  margin: 1px
   *
     +transition(0.3s)
+  img
+    z-index: 10
+    border: $border-width $border-style $secondary
   div
     position: absolute
     top: 40%
@@ -359,10 +363,6 @@ a.gallery-item
     font-weight: bold
     z-index: 0
     font-size: 0em
-  img
-    position: relative
-    z-index: 10
-    padding: 2px
   &:hover
     img
       opacity: 0.2
