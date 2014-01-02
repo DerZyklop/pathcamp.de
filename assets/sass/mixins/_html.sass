@@ -1,0 +1,248 @@
+@mixin reset
+
+    body
+        margin: 0
+    video, img
+        display: block
+        max-width: 100%
+        outline: none
+        margin: 0 auto
+    hr
+        border: none
+        background: $tertiary
+        height: $border-width
+        margin: $space-t-b 0
+
+@mixin core
+
+    // HTML-Elemente [BEGIN]
+
+    \:focus
+        outline: 0
+
+    \::-moz-selection
+        background: $primary
+        color: $quadrary
+
+    \::selection
+        background: $primary
+        color: $quadrary
+
+    html, body
+        height: 100%
+
+    body
+        background: $quadrary
+
+    fieldset
+        padding: $space-t-b $space-l-r
+        margin: $space-t-b 0
+        border:
+            color: $tertiary + #222
+            style: $border-style
+            width: $border-width
+
+    // HTML-Elemente [END]
+
+    // Standart-Klassen [BEGIN]
+
+    .left
+        float: left
+
+    .right
+        float: right
+
+    .center
+        text-align: center
+
+    p, form
+        margin: $space-t-b 0
+
+    p img
+        margin-top: 0.5em
+
+    img.left
+        float: left
+        margin: 0.5em $space-t-b $space-t-b 0
+
+    img.right
+        float: right
+        margin: 0.5em 0 $space-t-b $space-t-b
+
+    // Standart-Klassen [END]
+
+@mixin clearit
+
+    .clearit
+        height: 0 !important
+        width: 0 !important
+        line-height: 0 !important
+        clear: both !important
+        float: none !important
+
+@mixin clearfix
+
+    .clearfix:after
+        content: '.'
+        display: block
+        height: 0
+        clear: both
+        visibility: hidden
+        font-size: 0
+        clear: both
+
+@mixin typography
+    // standard typography elements
+
+    body
+        font-size: $font-size
+        line-height: 1.8em
+        font-family: $font-std
+
+    h1, h2, h3, h4, h5, h6
+        font-family: $font-highlight
+        margin: $space-t-b 0
+        line-height: 1.4em
+        a
+            text-decoration: none
+            &:hover
+                text-decoration: underline
+
+    h1, h2
+        color: $primary
+
+    h3, h4, h5, h6
+        font-weight: normal
+
+    h1
+        font-size: 2.5em
+    h2
+        font-size: 2.12em
+    h3
+        font-size: 1.88em
+    h4
+        font-size: 1.5em
+    h5
+        font-size: 1.2em
+    h6
+        font-size: 1em
+
+    a
+        color: $primary
+        &:hover
+            color: $secondary
+
+    p, ul, ol
+        a
+            text-decoration: none
+            &:hover
+                text-decoration: underline
+
+    legend
+        color: $tertiary - #222
+        font-weight: bold
+
+@mixin page-width
+
+    .width-wrap
+        max-width: $page-width
+        margin:
+            left: auto
+            right: auto
+
+    .inner-width-wrap
+        padding: $space-t-b $space-l-r
+
+    .main-content img
+        max-width: 100%
+
+    .page-space
+        padding: $space-t-b $space-l-r
+
+@mixin input
+
+    input[type="text"], input[type="date"], input[type="password"], textarea
+        display: block
+        +box-sizing(border-box)
+        width: 100%
+        border:
+            width: $border-width
+            style: $border-style
+            color: $tertiary
+        background: #fafafa
+        border-radius: $radius
+        padding: 0.3em 2%
+        font-size: 1em
+        line-height: 1.5em
+        &:focus
+            border-color: $tertiary - #222
+            +box-shadow(inset 0 0 6px rgba(0,0,0,0.1))
+            background: $quadrary
+    textarea
+        resize: vertical
+
+@mixin table
+
+    table
+        width: 100%
+
+@mixin list
+
+    ul, ol, dl
+        margin: $space-t-b 0
+    ul
+        padding-left: 1em
+
+@mixin button
+
+    button, .btn, .button, input[type="button"], input[type="submit"], input[type="reset"]
+        display: block
+        box-sizing: border-box
+        width: 100%
+        padding: 0.4em 1em
+        cursor: pointer
+        line-height: 1.5em
+        font:
+            size: 1em
+        color: $quadrary
+        text:
+            align: center
+            decoration: none
+        background: $primary
+        border: $border-width solid $quadrary
+        +border-radius($radius)
+        +transition(0.3s)
+        &:hover
+            text-decoration: none
+            color: $quadrary
+            background: $primary - #333
+        a
+            text-decoration: none
+        &:disabled, &.passive
+            background: $tertiary - #111
+            border: $border-width $border-style $tertiary
+            cursor: default
+
+@mixin blockquote
+
+    blockquote
+        padding: 0 0 0 2.5em
+        margin: 2em 0
+        border-left: $border-width $border-style $tertiary
+        font-style: italic
+
+@mixin pre
+
+    pre
+        background: $tertiary + #f8f8f8
+        border: $border-width $border-style $quadrary - #222
+        padding: $space-t-b
+        margin: $space-t-b 0
+        overflow: scroll
+        code
+            background: transparent
+    code
+        +transition(background 0.5s)
+        background: $tertiary + #0a0a0a
+        padding: 0.1em 0.2em
+        +border-radius(4px)
