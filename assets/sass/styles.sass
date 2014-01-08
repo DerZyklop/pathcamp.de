@@ -24,7 +24,8 @@ html, body
 
 body
   margin: 0
-  background: $quadrary
+  background: $width-wrap-background
+  color: $font-color
 
 hr
   border: none
@@ -56,14 +57,14 @@ button, .button, input[type="button"], input[type="submit"], input[type="reset"]
   text:
     align: center
     decoration: none
-  background: $tertiary
+  background: $secondary
   border: $border-width solid $quadrary
   +border-radius($radius)
   +transition(0.3s)
   &:hover
     text-decoration: none
     color: $quadrary
-    background: $tertiary - #222
+    background: $secondary - #222
   a
     text-decoration: none
   &:disabled, &.passive
@@ -149,7 +150,7 @@ h6
 a
   color: $primary
   &:hover
-    color: $tertiary
+    color: $secondary
 
 p
   img
@@ -195,7 +196,7 @@ $header-bg: #faf9f4 url('../images/noise.png')
 
 $seperator-color: #F2EDEA - #111
 $seperator-color: #{$primary}
-$seperator-color: #{$tertiary}
+$seperator-color: #{$secondary}
 $seperator-color: #F2EDEA
 $seperator-color: #e3dac8
 
@@ -214,7 +215,7 @@ h1, h2
   font-weight: normal
 
 p a
-  color: $tertiary
+  color: $secondary
 
 hr
   height: 1px
@@ -269,14 +270,14 @@ header
         background: rgba(255,255,255,0.4)
       &:hover a
         background: #fff
-        color: $tertiary - #111
+        color: $secondary - #111
         text-decoration: none
       &.active a
-        background: $tertiary
+        background: $secondary
         color: $quadrary
         border:
-          top: 1px solid $tertiary - #222
-          bottom: 1px solid $tertiary - #222
+          top: 1px solid $secondary - #222
+          bottom: 1px solid $secondary - #222
 
 section#main
   padding-bottom: $tent-line-height
