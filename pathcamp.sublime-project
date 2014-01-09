@@ -5,7 +5,8 @@
       "path": ".",
       "folder_exclude_patterns": [
         ".sass-cache",
-        "node_modules"
+        "node_modules",
+        "2014_backup"
       ]
     }
   ]

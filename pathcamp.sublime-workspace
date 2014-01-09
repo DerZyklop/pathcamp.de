@@ -15,11 +15,43 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 67.0,
 		"selected_items":
 		[
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git di",
+				"Git: Diff All"
+			],
+			[
+				"stats",
+				"Git: Status"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git stats",
+				"Git: Status"
+			],
+			[
+				"git diff",
+				"Git: Diff All"
+			],
+			[
+				"to spaces",
+				"Indentation: Convert to Spaces"
+			]
 		],
-		"width": 0.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -36,6 +68,14 @@
 	},
 	"file_history":
 	[
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/content/03-location/location.txt",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/content/home/home.txt",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/gruntfile.coffee",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/.gitignore",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/README.md",
+		"/Users/Offline/Dropbox/server/github-derzyklop/der-zyklop.de/README.md",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/.DS_Store",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/pathcamp.sublime-project",
 		"/Users/Offline/Dropbox/server/github-derzyklop/terminal-boilerplate/.profile",
 		"/Users/Offline/.profile",
 		"/Users/Offline/Dropbox/library/Terminal/.profile",
@@ -73,6 +113,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"default",
 			"HD",
 			"]",
 			"function p",
