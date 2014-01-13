@@ -2,7 +2,7 @@
 <html lang="de-DE">
 <head>
   <meta charset="UTF-8">
-  <title><?php echo html($site->title()) ?> - <?php 
+  <title><?php echo html($site->title()) ?> - <?php
     if ( $page->isHomePage() ) {
       echo html($site->description());
     } else {
@@ -29,6 +29,7 @@
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100555257ns.gif" /></p></noscript>
 
 <body>
+  <a href="https://github.com/DerZyklop/pathum.pxwrk.de"><img style="position: absolute;z-index:1000; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" alt="Fork me on GitHub"></a>
   <div id="body-inner">
     <header>
       <h1><a href="<?php echo url() ?>"><img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo html($site->title()) ?>" /></a></h1>
