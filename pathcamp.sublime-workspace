@@ -11,6 +11,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "content/home/home.txt",
+			"settings":
+			{
+				"buffer_size": 3517,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/20-imprint/imprint.txt",
+			"settings":
+			{
+				"buffer_size": 4590,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -68,14 +84,22 @@
 	},
 	"file_history":
 	[
-		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/content/03-location/location.txt",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/site/snippets/header.php",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/pathcamp.sublime-project",
 		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/content/home/home.txt",
-		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/gruntfile.coffee",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/site/templates/default.php",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/assets/sass/styles.sass",
 		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/.gitignore",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/content/04-photos/500px.txt",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/site/templates/500px.php",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/content/05-rauchzeichen/rauchzeichen.txt",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/content/photos/500px.txt",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/site/templates/camper.php",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/content/03-location/location.txt",
+		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/gruntfile.coffee",
 		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/README.md",
 		"/Users/Offline/Dropbox/server/github-derzyklop/der-zyklop.de/README.md",
 		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/.DS_Store",
-		"/Users/Offline/Dropbox/server/pxwrk.dorado.uberspace.de/pathcamp.pxwrk.de/pathcamp.sublime-project",
 		"/Users/Offline/Dropbox/server/github-derzyklop/terminal-boilerplate/.profile",
 		"/Users/Offline/.profile",
 		"/Users/Offline/Dropbox/library/Terminal/.profile",
@@ -148,8 +172,67 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "content/home/home.txt",
+					"settings":
+					{
+						"buffer_size": 3517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/20-imprint/imprint.txt",
+					"settings":
+					{
+						"buffer_size": 4590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								422,
+								422
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 179.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -159,7 +242,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 41.0
 	},
 	"layout":
 	{
