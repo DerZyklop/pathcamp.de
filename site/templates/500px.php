@@ -4,6 +4,9 @@
   <div class="main-width-wrap">
 
     <h2><?php echo html($page->title()) ?></h2>
+    <?php if ($page->title()): ?>
+      <p><?php echo kirbytext($page->text()) ?></p>
+    <?php endif ?>
     <section>
 
     <?php
@@ -22,8 +25,6 @@
       <?php endforeach ?>
       <div class="clearit"></div>
     </section>
-
-    <a class="btn" href="http://www.500px.com/<?php echo $contentfrom500px->user->name; ?>/">Mehr Fotos auf 500px</a>
 
   </div>
 </article>
