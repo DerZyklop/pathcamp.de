@@ -19,6 +19,9 @@
   <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Inika:400,700' rel='stylesheet' type='text/css'>
 
+  <link rel="shortcut icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png" />
+  <link rel="icon" href="<?= url('assets/images/favicon.png') ?>" type="image/png" />
+
   <?php echo css('assets/styles/styles.css') ?>
 
 </head>
