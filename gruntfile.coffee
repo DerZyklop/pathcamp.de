@@ -89,7 +89,7 @@ module.exports = (grunt) ->
         options:
           compass: true
           style: 'compressed'
-        files: '<%= paths.sass %>css/<%= paths.sassfilename %>.css': '<%= paths.sass %><%= paths.sassfilename %>.sass'
+        files: '<%= paths.sass %>css/<%= paths.sassfilename %>.css': '<%= paths.sass %><%= paths.sassfilename %>.{sass,scss}'
 
     # add and remove prefixes
     autoprefixer:
@@ -121,7 +121,7 @@ module.exports = (grunt) ->
         tasks: ['reload']
 
       sass:
-        files: ['<%= paths.sass %>**/*.sass']
+        files: ['<%= paths.sass %>**/*.{sass,scss}']
         tasks: ['sass']
       prefixes:
         files: ['<%= paths.sass %>css/*.css']

@@ -129,6 +129,7 @@ h1, h2, h3, h4, h5, h6
   line-height: 1.4em
 
 h1, h2, h3, h4, h5, h6
+  text-align: center
   color: $primary
 
 h3, h4, h5, h6
@@ -242,9 +243,8 @@ header
     padding: 0
     a
       img
-        padding: $space-l-r
+        padding: $space-l-r - 1px
         display: block
-        max-width: $header-width - $space-l-r*2 - 2px
         max-width: 100%
         margin: 0 auto
   ul#nav
@@ -318,6 +318,7 @@ section#main
     max-width: $main-max-width
     //min-width: $header-width
     margin: 0 auto
+    min-width: 240px
 
 footer
   bottom: $tent-line-height
