@@ -1,0 +1,33 @@
+Title: location
+----
+Text:
+
+(image: location.png title: Location class: left)
+
+#### anschrift
+
+(link: http://www.kath-vorderes-kinzigtal.de/html/kapellenhof_st_michael.html text: kapellenhof st. michael)
+haigerach 22
+77723 gengenbach (reichenbach)
+tel.: 07803/6319
+
+<div class="clearit"></div>
+
+### orts- und wegbeschreibung
+> der kapellenhof mit der michaelskapelle (12. jhd.) ist eigentum der pfarrgemeinde st. marien gengenbach. er liegt auf einer anhöhe im hinteren haigerachtal.
+
+> das haus ist wie folgt zu erreichen:
+- der beschilderung „haigerach“ folgen,
+- ab obertor entlang dem haigeracher bach fahren,
+- nach ca. 5 km ist rechts oben die kapelle zu sehen,
+- ein kleines schild „kapellenhof“ auf der rechten wegseite zeigt die direkte anfahrt an.
+
+> das haus ist nicht mit öffentlichen verkehrsmitteln zu erreichen. bahnstation ist der bahnhof gengenbach. pkw´s und kleinbusse können bis zum haus fahren.
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1176.4831246609413!2d8.06713518437182!3d48.425801301353296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sde!2sde!4v1389591129544" width="600" height="450" frameborder="0" style="border:0"></iframe>
+
+----
+Address: haigerach 22, gengenbach
+----
+

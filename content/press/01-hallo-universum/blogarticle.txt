@@ -1,0 +1,13 @@
+Title: Hallo Universum
+
+----
+
+Text: Hier zweiter blogpost. Das Internet (von englisch interconnected network), kurz das Netz, ist ein weltweites Netzwerk, bestehend aus vielen Rechnernetzwerken, durch das Daten ausgetauscht werden. Es ermöglicht die Nutzung von Internetdiensten wie E-Mail, Telnet, Usenet, Dateiübertragung, WWW und in letzter Zeit zunehmend auch Telefonie, Radio und Fernsehen. Im Prinzip kann dabei jeder Rechner weltweit mit jedem anderen Rechner verbunden werden. Der Datenaustausch zwischen den einzelnen Internetrechnern erfolgt über die technisch normierten Internetprotokolle. Die Technik des Internets wird durch die RFCs der Internet Engineering Task Force (IETF) beschrieben. Umgangssprachlich wird „Internet“ häufig synonym zum World Wide Web verwendet, da dieses einer der meistgenutzten Internetdienste ist und wesentlich zum Wachstum und der Popularität des Mediums beigetragen hat. Im Gegensatz dazu sind andere Mediendienste wie Telefonie, Fernsehen und Radio erst kürzlich über das Internet erreichbar geworden und haben parallel dazu ihre ursprüngliche Verbreitungstechnik.[1] Das Internet hat durch seine neuartige Technik und Verwendung eine eigene Sprachlichkeit hervorgebracht.
+
+----
+
+Autor: 
+
+----
+
+Date: 19.04.2012

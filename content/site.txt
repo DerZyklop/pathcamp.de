@@ -1,0 +1,11 @@
+Title: pathcamp.de
+----
+Author: pathcamp.de
+----
+Description: pathcamp fod conference 2014 gengenbach, germany
+----
+Keywords: pathcamp, barcamp, konferenz, gengenbach, offenburg, baden, podcast, fod,  
+----
+Copyright: pathcamp.de wird, sehr begeistert, mit dem grossartigen (link: http://getkirby.com text: kirby) betrieben und unterstützt durch grossartige menschen <3
+
+kirby theme (link: http://der-zyklop.de text: @derzyklop) logo (link: http://assbach.com/ text: sascha assbach) vielen dank!
