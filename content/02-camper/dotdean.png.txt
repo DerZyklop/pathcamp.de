@@ -6,4 +6,4 @@ Caption: florian krakau
 
 ----
 
-Link: http://about.me/dotdean
+Link: http://dotdean.de
