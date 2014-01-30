@@ -1,8 +1,10 @@
-Title: wat isene pathcamp?
+Title: zuhause
 
 ----
 
 Text:
+
+### wat isene pathcamp?
 
 <blockquote class="twitter-tweet" lang="en"><p>Das sieht sehr nett aus, dieses Pathcamp. Und Registrierungen sind noch möglich. <a href="https://twitter.com/pathcamper">@pathcamper</a> <a href="http://t.co/utXCDB1jZs">http://t.co/utXCDB1jZs</a> <a href="https://twitter.com/search?q=%23fb&amp;src=hash">#fb</a></p>&mdash; Johnny Haeusler (@spreeblick) <a href="https://twitter.com/spreeblick/statuses/423425839251095552">January 15, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -17,6 +19,10 @@ Text:
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/search?q=%23FOD&amp;src=hash">#FOD</a> 36 friends of <a href="https://twitter.com/dotdean">@dotdean</a> camp <a href="https://twitter.com/chriswelch">@chriswelch</a> approved <a href="https://twitter.com/search?q=%23badischeshinterland&amp;src=hash">#badischeshinterland</a> / <a href="https://twitter.com/search?q=%23foodporn&amp;src=hash">#foodporn</a> <a href="https://twitter.com/search?q=%23veggietoo&amp;src=hash">#veggietoo</a> <a href="https://twitter.com/search?q=%23selberkochen&amp;src=hash">#selberkochen</a> <a href="https://twitter.com/search?q=%23offline&amp;src=hash">#offline</a> cc://<a href="https://twitter.com/misscaro">@misscaro</a></p>&mdash; pathcamp (@pathcamper) <a href="https://twitter.com/pathcamper/statuses/422660098700623872">January 13, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### UPDATES auf twitter:
+
+<a class="twitter-timeline" href="https://twitter.com/pathcamper" data-widget-id="280406569152282625">Tweets von @pathcamper</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 **when?**
 31th january - 02th february 2014 ((link: Pathcamp2014.ics text: download the ics file))
