@@ -1,0 +1,16 @@
+﻿Title: press
+
+----
+
+Text: ## baden online 20140204
+
+(image: pathcamp2014BODE.png link: http://www.bo.de/lokales/offenburg/bewusstes-offline-im-haigerachtal)
+
+## lahrer bote 20140130
+
+(image: pathcamp2014lahrerbote.png link: http://www.schwarzwaelder-bote.de/inhalt.gegenbach-digitalaktivisten-leben-drei-tage-ohne-internet.d9eb01d2-e30f-45ec-adf7-386cf8bf2e18.html)
+
+## soschl midia
+
+(link: https://twitter.com/search?q=%23pathcamp&src=typd&f=realtime text: auf twitter solange hält)
+(link: http://www.oninstagram.com/pathcamp text: pathcamp on instagram)
